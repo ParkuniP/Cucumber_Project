@@ -7,3 +7,4 @@ Feature: Login functionality
     Then user should navigate to search hotel page
     
     # Login test scenario
+    # Login retest scenario
