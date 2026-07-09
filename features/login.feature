@@ -5,3 +5,5 @@ Feature: Login functionality
     When user enters valid username and password
     And user clicks on login button
     Then user should navigate to search hotel page
+    
+    # Login test scenario
